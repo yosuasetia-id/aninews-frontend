@@ -7,7 +7,7 @@ import Komunitas from "./pages/Komunitas";
 
 export default function App() {
   return (
-    <div className="bg-slate-700 h-screen">
+    <div className="bg-slate-700 h-full">
       <BrowserRouter>
         <Routes>
           <Route path="/" element={<Layout />}>

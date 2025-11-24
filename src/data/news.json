@@ -1,0 +1,481 @@
+{
+    "news": [
+        {
+            "id": 1,
+            "title": "Jujutsu Kaisen Season 3 Resmi Diumumkan",
+            "summary": "MAPPA mengonfirmasi kelanjutan setelah kesuksesan Shibuya Arc.",
+            "image": "assets/aninews-card.svg?w=800",
+            "date": "2025-02-14",
+            "rating": 4.8,
+            "tag": "Anime"
+        },
+        {
+            "id": 2,
+            "title": "Solo Leveling Dominasi Trending Global",
+            "summary": "Episode terbaru memecahkan rekor penayangan minggu ini.",
+            "image": "assets/aninews-card.svg?w=800",
+            "date": "2025-01-22",
+            "rating": 4.9,
+            "tag": "Anime"
+        },
+        {
+            "id": 3,
+            "title": "Attack on Titan Mendapat Spin-off Baru",
+            "summary": "Cerita akan fokus pada para Eldian setelah perang besar.",
+            "image": "assets/aninews-card.svg?w=800",
+            "date": "2024-12-10",
+            "rating": 4.7,
+            "tag": "Anime"
+        },
+        {
+            "id": 4,
+            "title": "Demon Slayer Umumkan Film Penutup",
+            "summary": "Harapan besar pada adaptasi Infinity Castle.",
+            "image": "assets/aninews-card.svg?w=800",
+            "date": "2025-03-05",
+            "rating": 4.9,
+            "tag": "Anime"
+        },
+        {
+            "id": 5,
+            "title": "One Piece Live-Action Siapkan Season 3",
+            "summary": "Netflix pastikan produksi berjalan lancar.",
+            "image": "assets/aninews-card.svg?w=800",
+            "date": "2025-02-01",
+            "rating": 4.6,
+            "tag": "Anime"
+        },
+        {
+            "id": 6,
+            "title": "Frieren Masuk 10 Anime Terbaik Sepanjang Masa",
+            "summary": "Peringkat internasional membuktikan kualitas animasinya.",
+            "image": "assets/aninews-card.svg?w=800",
+            "date": "2025-01-18",
+            "rating": 4.9,
+            "tag": "Anime"
+        },
+        {
+            "id": 7,
+            "title": "Chainsaw Man Volume 17 Rilis dengan Arc Baru",
+            "summary": "Fujimoto kembali mengejutkan penggemar dengan plot twist.",
+            "image": "assets/aninews-card.svg?w=800",
+            "date": "2025-03-10",
+            "rating": 4.5,
+            "tag": "Manga"
+        },
+        {
+            "id": 8,
+            "title": "Bleach TYBW Part 3 Siap Tayang Musim Panas",
+            "summary": "Studio Pierrot janjikan visual lebih dramatis.",
+            "image": "assets/aninews-card.svg?w=800",
+            "date": "2025-02-28",
+            "rating": 4.8,
+            "tag": "Anime"
+        },
+        {
+            "id": 9,
+            "title": "Haikyuu!! Final Movie Pecahkan Box Office Jepang",
+            "summary": "Pertandingan terakhir Karasuno sukses besar.",
+            "image": "assets/aninews-card.svg?w=800",
+            "date": "2025-03-01",
+            "rating": 4.7,
+            "tag": "Anime"
+        },
+        {
+            "id": 10,
+            "title": "Spy x Family Season 3 Akan Hadir Akhir Tahun",
+            "summary": "Cerita keluarga Forger akan memasuki konflik besar.",
+            "image": "assets/aninews-card.svg?w=800",
+            "date": "2024-11-22",
+            "rating": 4.6,
+            "tag": "Anime"
+        },
+        {
+            "id": 11,
+            "title": "Blue Lock Umumkan Adaptasi Movie Baru",
+            "summary": "Fokus pada episode kualifikasi internasional.",
+            "image": "assets/aninews-card.svg?w=800",
+            "date": "2025-02-15",
+            "rating": 4.4,
+            "tag": "Anime"
+        },
+        {
+            "id": 12,
+            "title": "Kaguya-sama Live Action Lanjutkan Trilogi",
+            "summary": "Cerita cinta segitiga semakin memanas.",
+            "image": "assets/aninews-card.svg?w=800",
+            "date": "2024-12-19",
+            "rating": 4.2,
+            "tag": "Anime"
+        },
+        {
+            "id": 13,
+            "title": "Berserk Kembali Lanjutkan Cerita Setelah Hiatus",
+            "summary": "Studio baru ambil alih produksi lanjutan.",
+            "image": "assets/aninews-card.svg?w=800",
+            "date": "2025-01-30",
+            "rating": 4.9,
+            "tag": "Manga"
+        },
+        {
+            "id": 14,
+            "title": "Oshi no Ko Season 2 Godaikan Industri Hiburan",
+            "summary": "Drama kian kompleks namun relevan.",
+            "image": "assets/aninews-card.svg?w=800",
+            "date": "2025-03-07",
+            "rating": 4.7,
+            "tag": "Anime"
+        },
+        {
+            "id": 15,
+            "title": "Naruto Remaster 4K Resmi Digarap Studio Baru",
+            "summary": "Visual dan musik akan diperbarui total.",
+            "image": "assets/aninews-card.svg?w=800",
+            "date": "2024-10-14",
+            "rating": 4.3,
+            "tag": "Anime"
+        },
+        {
+            "id": 16,
+            "title": "Vagabond Masuk Daftar Manga Terbaik Dekade Ini",
+            "summary": "Karya Takehiko Inoue kembali viral.",
+            "image": "assets/aninews-card.svg?w=800",
+            "date": "2025-02-04",
+            "rating": 5.0,
+            "tag": "Manga"
+        },
+        {
+            "id": 17,
+            "title": "My Hero Academia Bersiap Menuju Final Arc",
+            "summary": "Konflik terakhir semakin dekat.",
+            "image": "assets/aninews-card.svg?w=800",
+            "date": "2025-03-12",
+            "rating": 4.6,
+            "tag": "Anime"
+        },
+        {
+            "id": 18,
+            "title": "Black Clover Movie Sequel Dipastikan Rilis",
+            "summary": "Studio optimistis dengan hasil sebelumnya.",
+            "image": "assets/aninews-card.svg?w=800",
+            "date": "2024-12-06",
+            "rating": 4.4,
+            "tag": "Anime"
+        },
+        {
+            "id": 19,
+            "title": "Ookami Children Raih Adaptasi Series",
+            "summary": "Produksi akan dimulai akhir tahun ini.",
+            "image": "assets/aninews-card.svg?w=800",
+            "date": "2025-01-12",
+            "rating": 4.5,
+            "tag": "Anime"
+        },
+        {
+            "id": 20,
+            "title": "Classroom of The Elite Season 4 Menjadi Kenyataan",
+            "summary": "Arc psikologi baru siap mengguncang.",
+            "image": "assets/aninews-card.svg?w=800",
+            "date": "2025-02-03",
+            "rating": 4.8,
+            "tag": "Anime"
+        },
+        {
+            "id": 21,
+            "title": "Fate/Grand Order Umumkan Adaptasi Final Singularity",
+            "summary": "Pertarungan terakhir dipastikan tampil lebih epik.",
+            "image": "assets/aninews-card.svg?w=800",
+            "date": "2025-03-08",
+            "rating": 4.7,
+            "tag": "Anime"
+        },
+        {
+            "id": 22,
+            "title": "Nana Direncanakan Kembali Setelah 15 Tahun Hiatus",
+            "summary": "Isu comeback mulai diperkuat publisher.",
+            "image": "assets/aninews-card.svg?w=800",
+            "date": "2025-01-17",
+            "rating": 4.9,
+            "tag": "Manga"
+        },
+        {
+            "id": 23,
+            "title": "Horimiya OVA Umumkan Jadwal Tayang",
+            "summary": "Konten tambahan dari manga resmi diadaptasi.",
+            "image": "assets/aninews-card.svg?w=800",
+            "date": "2024-12-29",
+            "rating": 4.3,
+            "tag": "Anime"
+        },
+        {
+            "id": 24,
+            "title": "Dorohedoro Season 2 Dipastikan Hadir di Netflix",
+            "summary": "Atmosfer gelap dan humor tetap dipertahankan.",
+            "image": "assets/aninews-card.svg?w=800",
+            "date": "2025-01-25",
+            "rating": 4.6,
+            "tag": "Anime"
+        },
+        {
+            "id": 25,
+            "title": "Golden Kamuy Live Action Raih Rating Tinggi",
+            "summary": "Adaptasinya dipuji karena kesetiaan cerita.",
+            "image": "assets/aninews-card.svg?w=800",
+            "date": "2024-10-09",
+            "rating": 4.2,
+            "tag": "Anime"
+        },
+        {
+            "id": 26,
+            "title": "Gintama Umumkan Final Movie Kedua",
+            "summary": "Akan menghadirkan campuran komedi dan aksi.",
+            "image": "assets/aninews-card.svg?w=800",
+            "date": "2025-02-26",
+            "rating": 4.5,
+            "tag": "Anime"
+        },
+        {
+            "id": 27,
+            "title": "One Punch Man Season 3 Tampilkan Garou Arc",
+            "summary": "Fans berharap studio tetap konsisten.",
+            "image": "assets/aninews-card.svg?w=800",
+            "date": "2025-03-15",
+            "rating": 4.4,
+            "tag": "Anime"
+        },
+        {
+            "id": 28,
+            "title": "Jojo’s Bizarre Adventure Stone Ocean Sudah Rampung",
+            "summary": "Spekulasi arc selanjutnya mulai bermunculan.",
+            "image": "assets/aninews-card.svg?w=800",
+            "date": "2025-01-05",
+            "rating": 4.6,
+            "tag": "Anime"
+        },
+        {
+            "id": 29,
+            "title": "Slam Dunk Kembali Populer Setelah Movie Rilis",
+            "summary": "Generasi baru ikut mengenal karya klasik.",
+            "image": "assets/aninews-card.svg?w=800",
+            "date": "2025-03-13",
+            "rating": 4.8,
+            "tag": "Anime"
+        },
+        {
+            "id": 30,
+            "title": "Neon Genesis Evangelion 4K Remaster Resmi Hadir",
+            "summary": "Format baru perbaiki visual dan warna.",
+            "image": "assets/aninews-card.svg?w=800",
+            "date": "2024-11-05",
+            "rating": 4.7,
+            "tag": "Anime"
+        },
+        {
+            "id": 31,
+            "title": "Mob Psycho 100 Kembali Viral di Media Sosial",
+            "summary": "Fans rayakan anniversary perilisan anime.",
+            "image": "assets/aninews-card.svg?w=800",
+            "date": "2025-02-02",
+            "rating": 4.8,
+            "tag": "Anime"
+        },
+        {
+            "id": 32,
+            "title": "To Your Eternity Season 3 Masuki Tahap Produksi",
+            "summary": "Emosi dan tragedi tetap jadi daya tarik.",
+            "image": "assets/aninews-card.svg?w=800",
+            "date": "2025-01-21",
+            "rating": 4.4,
+            "tag": "Anime"
+        },
+        {
+            "id": 33,
+            "title": "Tokyo Revengers Tamat dengan Ending Mengejutkan",
+            "summary": "Respons pembaca terbagi dua.",
+            "image": "assets/aninews-card.svg?w=800",
+            "date": "2024-12-10",
+            "rating": 4.1,
+            "tag": "Manga"
+        },
+        {
+            "id": 34,
+            "title": "Monster karya Naoki Urasawa Dapat Adaptasi Anime",
+            "summary": "Studio besar akan mengerjakan proyek ini.",
+            "image": "assets/aninews-card.svg?w=800",
+            "date": "2025-03-09",
+            "rating": 5.0,
+            "tag": "Anime"
+        },
+        {
+            "id": 35,
+            "title": "Mushoku Tensei Season 3 Siap Hadir 2025",
+            "summary": "Cerita Rudeus semakin memasuki fase dewasa.",
+            "image": "assets/aninews-card.svg?w=800",
+            "date": "2025-02-22",
+            "rating": 4.7,
+            "tag": "Anime"
+        },
+        {
+            "id": 36,
+            "title": "Dr. Stone Arc Baru Hadir dengan Time Travel",
+            "summary": "Ilmuwan Stone World temukan rahasia baru.",
+            "image": "assets/aninews-card.svg?w=800",
+            "date": "2025-01-29",
+            "rating": 4.6,
+            "tag": "Anime"
+        },
+        {
+            "id": 37,
+            "title": "Shinchan Merayakan 35 Tahun dengan Film Spesial",
+            "summary": "Komedi keluarga tetap jadi daya tarik utama.",
+            "image": "assets/aninews-card.svg?w=800",
+            "date": "2024-12-01",
+            "rating": 4.0,
+            "tag": "Anime"
+        },
+        {
+            "id": 38,
+            "title": "No Game No Life Rumorkan Akan Dapat Season 2",
+            "summary": "Belum ada konfirmasi resmi namun fans antusias.",
+            "image": "assets/aninews-card.svg?w=800",
+            "date": "2025-01-06",
+            "rating": 4.3,
+            "tag": "Anime"
+        },
+        {
+            "id": 39,
+            "title": "Made in Abyss The Final Movie Diumumkan",
+            "summary": "Petualangan terakhir Riko dan Reg semakin dekat.",
+            "image": "assets/aninews-card.svg?w=800",
+            "date": "2025-03-04",
+            "rating": 4.9,
+            "tag": "Anime"
+        },
+        {
+            "id": 40,
+            "title": "Hells Paradise Season 2 Siap Tayang Tahun Ini",
+            "summary": "Visual brutal tetap jadi ciri khas.",
+            "image": "assets/aninews-card.svg?w=800",
+            "date": "2025-02-27",
+            "rating": 4.5,
+            "tag": "Anime"
+        },
+        {
+            "id": 41,
+            "title": "Ao Haru Ride Reboot Mendapat Green Light",
+            "summary": "Versi modern untuk penonton baru.",
+            "image": "assets/aninews-card.svg?w=800",
+            "date": "2024-11-23",
+            "rating": 4.2,
+            "tag": "Anime"
+        },
+        {
+            "id": 42,
+            "title": "Parasyte Live Action Netflix Raih Respon Positif",
+            "summary": "Adaptasi lebih berani dari versi manga.",
+            "image": "assets/aninews-card.svg?w=800",
+            "date": "2025-03-11",
+            "rating": 4.4,
+            "tag": "Anime"
+        },
+        {
+            "id": 43,
+            "title": "Yowamushi Pedal Akan Rilis Season Penutup",
+            "summary": "Perjalanan sang juara mencapai akhir.",
+            "image": "assets/aninews-card.svg?w=800",
+            "date": "2025-02-11",
+            "rating": 4.3,
+            "tag": "Anime"
+        },
+        {
+            "id": 44,
+            "title": "Rent-A-Girlfriend Season 4 Akan Tutup Cerita",
+            "summary": "Romansa semakin memanas menuju ending.",
+            "image": "assets/aninews-card.svg?w=800",
+            "date": "2025-01-23",
+            "rating": 4.1,
+            "tag": "Anime"
+        },
+        {
+            "id": 45,
+            "title": "Vinland Saga Umumkan Film Spin-off",
+            "summary": "Akan fokus pada karakter sampingan populer.",
+            "image": "assets/aninews-card.svg?w=800",
+            "date": "2025-02-06",
+            "rating": 4.9,
+            "tag": "Anime"
+        },
+        {
+            "id": 46,
+            "title": "Ace Attorney Anime Adaptasi Arc Baru",
+            "summary": "Kasus hukum rumit siap hadir di layar kaca.",
+            "image": "assets/aninews-card.svg?w=800",
+            "date": "2024-12-26",
+            "rating": 4.2,
+            "tag": "Anime"
+        },
+        {
+            "id": 47,
+            "title": "Hyouka Dapat Remaster Blu-ray 2025",
+            "summary": "Visual lebih tajam dan pewarnaan diperbarui.",
+            "image": "assets/aninews-card.svg?w=800",
+            "date": "2025-01-28",
+            "rating": 4.3,
+            "tag": "Anime"
+        },
+        {
+            "id": 48,
+            "title": "Blue Period Season 2 Resmi Dikerjakan",
+            "summary": "Tema seni dan perkembangan karakter kembali jadi sorotan.",
+            "image": "assets/aninews-card.svg?w=800",
+            "date": "2025-02-18",
+            "rating": 4.6,
+            "tag": "Anime"
+        },
+        {
+            "id": 49,
+            "title": "Steins;Gate Dapat Adaptasi VR Resmi",
+            "summary": "Pengalaman time travel semakin imersif.",
+            "image": "assets/aninews-card.svg?w=800",
+            "date": "2025-03-14",
+            "rating": 4.8,
+            "tag": "Anime"
+        },
+        {
+            "id": 50,
+            "title": "Your Name Kembali Ditayangkan dalam Format IMAX",
+            "summary": "Fans siap nostalgia dengan visual memukau.",
+            "image": "assets/aninews-card.svg?w=800",
+            "date": "2025-02-24",
+            "rating": 4.9,
+            "tag": "Anime"
+        }
+    ],
+    "banners": [
+        {
+            "id": 1,
+            "image": "assets/banner-iklan-1.jpg",
+            "link": "https://sponsor-1.com"
+        },
+        {
+            "id": 2,
+            "image": "assets/banner-iklan-2.jpg",
+            "link": "https://sponsor-2.com"
+        },
+        {
+            "id": 3,
+            "image": "assets/banner-iklan-3.jpg",
+            "link": "https://sponsor-3.com"
+        },
+        {
+            "id": 4,
+            "image": "assets/banner-iklan-4.jpg",
+            "link": "https://sponsor-3.com"
+        },
+        {
+            "id": 5,
+            "image": "assets/banner-iklan-5.jpg",
+            "link": "https://sponsor-3.com"
+        }
+    ]
+}
