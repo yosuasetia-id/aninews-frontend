@@ -1,16 +1,22 @@
-# React + Vite
+📰 AniNews — Website Berita Anime Modern (Tahap Pengembangan)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+AniNews adalah website berita anime yang menyajikan informasi terbaru, ulasan, komunitas, dan konten hiburan seputar anime & manga. Dibangun dengan teknologi vite untuk tampilan cepat, responsif, dan nyaman digunakan di mobile maupun desktop.
 
-Currently, two official plugins are available:
+🚀 Fitur Utama
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✅ Berita Anime Terbaru berdasarkan tanggal rilis
 
-## React Compiler
+⭐ Top News berdasarkan rating tertinggi
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🏷️ Genre Tagging (Action, Fantasy, Sci‑Fi, Drama, dll)
 
-## Expanding the ESLint configuration
+📱 Desain Responsif — mobile, tablet, desktop
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🎴 Kartu Berita Elegan & Modern dengan Tailwind
+
+🔄 Pagination & Load More
+
+⚡ Api (Dummy Data)
+
+🔍 Pencarian & Filter Genre (opsional)
+
