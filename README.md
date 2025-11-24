@@ -18,5 +18,5 @@ AniNews adalah website berita anime yang menyajikan informasi terbaru, ulasan, k
 
 ⚡ Api (Dummy Data)
 
-🔍 Pencarian & Filter Genre (opsional)
+🔍 Pencarian & Filter Genre
 
